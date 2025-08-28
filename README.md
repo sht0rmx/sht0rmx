@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on [dnd-helper](github.com/sht0rmx/dnd-helper)
 
-- 👨‍💻 All of my projects are available at [come back soon](come back soon)
-
 - 📝 I regularly write articles on [t.me/sht0rm_x](t.me/sht0rm_x)
 
 - 💬 Ask me about **python & db's & api**
